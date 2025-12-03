@@ -1,2 +1,2 @@
-# geradordedicas
+# Gerador de Dicas
 
